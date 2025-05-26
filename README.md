@@ -18,7 +18,7 @@
 🌍 Desde El Salvador | 💻 Full Stack Jr. Developer en formación  
 📚 Docente tecnológica con visión creativa y vocación educativa  
 
-Soy desarrolladora web en formación con experiencia en HTML, CSS y JavaScript. Actualmente estoy finalizando mi certificación como **Full Stack Jr.** con **Kodigo**. Combino mi formación técnica con mi experiencia como docente para crear soluciones digitales con propósito, claras, funcionales y pensadas para usuarios reales.
+Soy desarrolladora web en formación con experiencia en HTML, CSS y JavaScript. Actualmente estoy realizando una certificación como **Full Stack Jr.** con **Kodigo**. Combino mi formación técnica con mi experiencia como docente para crear soluciones digitales con propósito, claras, funcionales y pensadas para usuarios reales.
 
 🔍 Intereses actuales: Desarrollo Full Stack, JavaScript moderno, React, bases de datos, y metodologías ágiles de enseñanza.  
 🌱 Aprendiendo más sobre: Node.js, MongoDB, Git, y frameworks de front-end.  
